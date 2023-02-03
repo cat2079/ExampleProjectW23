@@ -7,9 +7,7 @@ using System.Web.Http;
 
 namespace ExampleProjectW23.Controllers
 {
-    public class ExampleController : ApiController
+    public class TestController : ApiController
     {
-        //I am pushing this code to github
-        //I am adding a second line
     }
 }
